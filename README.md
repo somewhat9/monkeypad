@@ -1,7 +1,9 @@
 # Monkeypad
 Monkeypad is a macropad with 9 switches, an OLED screen and a rotary encoder.
 
-*Completely designed by [@somewhat9](github.com/somewhat9).*
+*Completely designed by [@somewhat9](github.com/somewhat9).*  
+  
+![Monkeypad](assets/FULL-RENDER.png)
 
 ## Features:
 - 128x32 OLED Display
