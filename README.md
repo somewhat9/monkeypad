@@ -11,14 +11,16 @@ Monkeypad is a macropad with 9 switches, an OLED screen and a rotary encoder.
 - QMK Firmware
 
 ### Schematic
-Used [KiCAD](https://www.kicad.org/), an open source EDA software, to create the schematic and design the PCB.<br>
+Used [KiCAD](https://www.kicad.org/), an open source EDA software, to create the schematic and design the PCB.  
+
 ![Schematic](assets/SCHEMATIC.png)
 
 ### PCB
 ![PCB](assets/PCB.png)
 
 ### Case
-Utilized [Onshape](https://www.onshape.com/en/), a 3D modeling CAD software, to design the 3D models for the case.<br>
+Utilized [Onshape](https://www.onshape.com/en/), a 3D modeling CAD software, to design the 3D models for the case.  
+
 ![Case](assets/CASE.png)
 
 ### Firmware
