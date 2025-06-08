@@ -376,15 +376,15 @@
 			(uuid "21f92097-3f38-4a9c-b064-ced966448794")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/models/MX.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12.5 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -661,15 +661,15 @@
 			(uuid "e0cf4f14-0c3c-448c-a1ae-eec2396c6048")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/models/MX.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12.5 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -946,15 +946,15 @@
 			(uuid "3117acd4-a9b4-4993-9a32-4e6b4c24aded")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/models/MX.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12.5 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -1231,15 +1231,15 @@
 			(uuid "7f509239-f87c-490a-8eb4-dc0b13fba143")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/models/MX.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12.5 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -1516,15 +1516,15 @@
 			(uuid "2c66a2a9-6812-48ab-9242-aa0f28cbf488")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/models/MX.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12.5 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -1801,15 +1801,15 @@
 			(uuid "c5aa8f65-516c-4bb6-b788-5a665ebfa448")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/models/MX.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12.5 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -2068,6 +2068,17 @@
 			(uuid "ba43976b-74c7-458c-b1de-30874a377378")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/models/128x32-OLED.step"
+			(offset
+				(xyz 19 -6 2)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -2342,15 +2353,15 @@
 			(uuid "91e8ecd7-ea67-4f20-b5c0-b14a7d0fc069")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/models/MX.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12.5 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -2627,15 +2638,15 @@
 			(uuid "f07ec66b-0787-44d6-ad4e-d97d4bb017a0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/models/MX.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12.5 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -2912,15 +2923,15 @@
 			(uuid "787e659d-7b55-483e-a3f2-db6df51826ca")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/models/MX.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12.5 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -3326,15 +3337,15 @@
 			(uuid "42fbfdb6-4152-4376-9e47-7c4d096da4ad")
 		)
 		(embedded_fonts no)
-		(model "${KISYS3DMOD}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.wrl"
+		(model "${KIPRJMOD}/models/ENCODER.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 7 -2.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -90)
 			)
 		)
 	)
@@ -5687,6 +5698,7 @@
 			)
 		)
 		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeeduino XIAO SAMD21 v4.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5731,6 +5743,17 @@
 			)
 			(rotate
 				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/models/XIAO-RP2040.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 	)
