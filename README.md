@@ -1,7 +1,7 @@
 # Monkeypad
-
 Monkeypad is a macropad with 9 switches, an OLED screen and a rotary encoder.
-Completely designed by [@somewhat9](github.com/somewhat9).
+
+*Completely designed by [@somewhat9](github.com/somewhat9).*
 
 ## Features:
 - 128x32 OLED Display
@@ -12,7 +12,6 @@ Completely designed by [@somewhat9](github.com/somewhat9).
 
 ### Schematic
 Used [KiCAD](https://www.kicad.org/), an open source EDA software, to create the schematic and design the PCB.
-
 ![Schematic](assets/SCHEMATIC.png)
 
 ### PCB
